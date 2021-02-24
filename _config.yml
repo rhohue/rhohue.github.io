@@ -97,6 +97,7 @@ author:
   name             : "Hue"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ":-D"
+  location         : "Somewhere"
   email            : "rhohue.social@gmail.com"
   links:
     - label: "Email"
