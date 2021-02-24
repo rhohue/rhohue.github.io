@@ -97,8 +97,7 @@ author:
   name             : "Hue"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ":-D"
-  location         : "Somewhere in **this** Universe...Maybe!"
-  email            :
+  email            : "rhohue.social@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
