@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hue's Blog for Qiskit Projects"
+  name             : "Hue"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Somewhere in *this* Universe...Maybe!"
+  bio              : ":-D"
+  location         : "Somewhere in **this** Universe...Maybe!"
   email            :
   links:
     - label: "Email"
