@@ -1,3 +1,9 @@
+The 1st QISKIT Code :-D
+
+
+
+
+
 ```python
 %matplotlib inline
 # Importing standard Qiskit libraries
@@ -38,3 +44,9 @@ circuit.swap(qreg_q[0], qreg_q[1])
 editor = CircuitComposer(circuit=circuit)
 editor
 ```
+
+
+![circuit-klqtf1mc](https://user-images.githubusercontent.com/68530454/109530879-92e7a780-7afa-11eb-8bc2-f9ab6c76fe6d.png)
+![5c796e970737935317b78fc6e2e255a1_statevector](https://user-images.githubusercontent.com/68530454/109530890-95e29800-7afa-11eb-9775-cd2fefff3f09.png)
+![5c796e970737935317b78fc6e2e255a1_qsphere](https://user-images.githubusercontent.com/68530454/109530899-9844f200-7afa-11eb-8527-20752a5dbeb9.png)
+![5c796e970737935317b78fc6e2e255a1_histogram](https://user-images.githubusercontent.com/68530454/109530907-9a0eb580-7afa-11eb-9ee8-17082a71caf0.png)
