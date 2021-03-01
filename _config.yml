@@ -20,7 +20,7 @@ title                    : "Hue's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hue"
-description              : "Qiskit Projects"
+description              : "This Blog is for my QC Project"
 url                      : "https://rhohue.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Hue"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ":-D"
+  bio              : ":-)"
   
   links:
     - label: "Email"
