@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # https://youtu.be/RrUTwq5jKM4
-# 이거 강의보고 따라해본 것...
+
 
 # In[1]:
 
